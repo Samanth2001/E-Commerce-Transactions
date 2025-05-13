@@ -24,7 +24,7 @@ Evaluated clusters using Davies-Bouldin Index and Silhouette Score.
 Visualized customer clusters.
 
 Technologies Used:
-Python
+Python Programming Language
 Libraries: pandas, matplotlib, seaborn, scikit-learn
     
 Output Files
